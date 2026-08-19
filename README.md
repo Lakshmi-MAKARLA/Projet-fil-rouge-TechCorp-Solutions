@@ -9,7 +9,7 @@ Déploiement individuel d'une infrastructure complète de services Linux d'entre
 * **Jalon 1 - Architecture et Plan d'Adressage :** Conception de la topologie réseau, définitions des sous-réseaux et plan d'adressage IP
 * **Jalon 2 - Interconnexion et Routage :** Configuration des interfaces réseau , adressage statique et routage inter-VLAN sur Linux.
 * **Jalon 3 - Services Réseau Fondamentaux :** Déploiement et sécurisation des serveurs DHCP et DNS (BIND/Ddns) d'entreprise.
-* **Jalon 4 - Annuaire et Gestion des Identités :** Intégration de Samba ?Active Directory (ou OpenLDAP) et gestion centralisée des utilisateurs.
+* **Jalon 4 - Annuaire et Gestion des Identités :** Intégration de Samba/Active Directory (ou OpenLDAP) et gestion centralisée des utilisateurs.
 * **Jalon 5 - Partage de Fichiers et Stockage :** Configuration des services NFS/Samba et gestion des autorisations/droits d'accès.
 * **Jalon 6 - Services Web, Cloud et Applicatifs :** Déploiement du serveur Web (Apache/Nginx), bases de données (MariaDB) ,solution Cloud (Nextcloud), gestion de projet(Projeqtor) et gesation d'incidents?parc informatique (GLPI).
 * **Jalon 7 - Sécurité , Automation et Supervision :** Configuration du pare-feu(NFTables/UFW), durcissement (SSH, Fail2ban), automatisation des sauvegardes et gestion du parc IT via GLPI.
